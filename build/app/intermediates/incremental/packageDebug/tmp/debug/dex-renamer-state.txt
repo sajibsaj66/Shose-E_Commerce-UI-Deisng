@@ -1,0 +1,4 @@
+#Fri Mar 12 09:43:27 BDT 2021
+base.0=C\:\\Users\\Sajib\\Downloads\\Sakib's Project\\shose-e-commerce-ui-deisng-main\\shose-e-commerce-ui-deisng-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
